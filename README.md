@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # "Sedna" One Page Website Template
 
 "Sedna" is a one page website template made by [Peter Finlan](http://peterfinlan.com/) exclusively for Codrops.
@@ -48,4 +49,6 @@ Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www
 
 [© Codrops 2015](http://www.codrops.com)
 
+=======
+>>>>>>> 1ce0f1776983a7b1e7eb6b2bc51c3c6b97682b3e
 
