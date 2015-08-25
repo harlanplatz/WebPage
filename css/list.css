@@ -1,0 +1,111 @@
+
+
+html, body {
+  height: 100%;
+}
+
+/*body {
+  background: linear-gradient(to bottom, #eaeaea 20%, #dbdbdb 40%, #dbdbdb 60%, #eaeaea 100%);
+  margin: 0;
+  padding: 50px 0 0 0;
+}*/
+/*
+nav {
+  width: 300px;
+  height: auto;
+  margin: 0 auto;
+  padding: 0;
+}*/
+
+div .list ul{
+  margin: 0;
+  padding: 0;
+}
+div .list nav a{
+  color: red;
+}
+div .list  li {
+  list-style: none;
+  width: 90%;
+  margin-left: 5%;
+}
+div .list li a{
+  border: 1px solid gray;
+  background: #f4f4f4;
+  box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.8);
+  z-index: 100;
+  font: 600 1.1em 'Open Sans', sans-serif;
+  color: #282828;
+  text-shadow: 0 1px white;
+  display: block;
+  margin: 0;
+  padding: 10px 30px 10px 60px;
+  text-decoration: none;
+  position: relative;
+  transition: all 100ms;
+  font-size: 1em;
+}
+div .list  li a span {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 50%;
+  right: 0;
+  bottom: 0;
+  left: 15px;
+  margin: -15px 0 0 0;
+  padding: 0;
+  width: 30px;
+  height: 30px;
+  border-radius: 6px;
+  background: url("http://danferth.com/footlocker/avitars.jpg") no-repeat 0 0;
+}
+div .list  li a:hover {
+  transform:  translateY(0px) scale(1.05, 1.05);
+  z-index: .5;
+  background: linear-gradient(to bottom, #ededed 0%, #ffffff 20%, #ffffff 80%, #ededed 100%);
+}
+div .list  li a:active {
+  transform:  translateY(0px) scale(1.05, 1.05);
+}
+
+/*li:nth-child(1) span {
+  background-position: -1px -1px;
+}
+
+li:nth-child(2) span {
+  background-position: -1px -37px;
+}
+
+li:nth-child(3) span {
+  background-position: -1px -73px;
+}
+
+li:nth-child(4) span {
+  background-position: -1px -109px;
+}
+
+li:nth-child(5) span {
+  background-position: -1px -145px;
+}
+
+li:nth-child(6) span {
+  background-position: -1px -181px;
+}
+
+li:nth-child(7) span {
+  background-position: -1px -217px;
+}
+
+li:nth-child(8) span {
+  background-position: -1px -254px;
+}
+
+li:nth-child(9) span {
+  background-position: -1px -290px;
+}
+
+li:nth-child(10) span {
+  background-position: -1px -326px;
+}
+*/
