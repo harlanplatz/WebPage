@@ -1182,4 +1182,5 @@ h2 p{
     font-size: 1em;
     position:   relative;
     right: -10em;
+    display: inline;
 }
