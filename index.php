@@ -540,7 +540,13 @@ $(document).ready(function () {
                     <h3>FREE CASE EVALUATION</h3>             
                     <p>CALL US AT : (516) 279-4800</p>
                     <p>EMAIL : HPlatz@PlatzLaw.com</p>
-                    
+                    <form action="" method="post">
+                        First Name: <input type="text" name="first_name"><br>
+                        Last Name: <input type="text" name="last_name"><br>
+                        Email: <input type="text" name="email"><br>
+                        Message:<br><textarea rows="5" name="message" cols="30"></textarea><br>
+                        <input type="submit" name="submit" value="Submit">
+                    </form> 
                    
                 </div>
                 <img src="img/banner.png" style="width:60vw;">
